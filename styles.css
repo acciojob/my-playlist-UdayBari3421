@@ -1,2 +1,7 @@
-
+.player_one,
+.player_two{
+	background-color:rgb(255,255,255);
+	padding:6px;
+	border-radius:5px;
+}
 /*  your css code here. If applicable */
